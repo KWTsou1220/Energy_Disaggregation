@@ -1,0 +1,2 @@
+model_checkpoint_path: "Energy_Dissagregation.ckpt"
+all_model_checkpoint_paths: "Energy_Dissagregation.ckpt"
